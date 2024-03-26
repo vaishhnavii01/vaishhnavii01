@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm Vaishnavi Agrawal </h1>
+<h1 align="left">Hi 👋, I'm Vaishnavi Agrawal :) </h1>
 <h5 align="left">I'm an undergraduate computer science student with a passion for web development. I enjoy turning ideas into reality through clean and elegant code, constantly learning and exploring new technologies.</h5>
 
 
