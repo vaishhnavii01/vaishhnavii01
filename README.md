@@ -2,13 +2,6 @@
 <h5 align="left">I'm an undergraduate computer science student with a passion for web development. I enjoy turning ideas into reality through clean and elegant code, constantly learning and exploring new technologies.</h5>
 
 
-## 🙋‍♂️ About Me
-        
-- 🌱 I’m currently learning **React.js**
-
-- 🎯 Goal: To become an **software engineer**
-
-
 <br>
 
 ## 🚀 I code with
